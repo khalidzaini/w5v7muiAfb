@@ -17,7 +17,7 @@ public class P2_25ftt1000 { //FORMAT: PracticalNum_studentid
 
     
     public static void PrintNumbers(){
-        //2.1 – PrintNumbers.java [USE THE CLASSNAME GIVEN IN THE TASK SHEET]
+        //1.1 – PrintNumbers.java [USE THE CLASSNAME GIVEN IN THE TASK SHEET]
         // PURPOSE: print numbers given a format
 
         // DESCRIPTION HOW IT WORKS
@@ -28,7 +28,7 @@ public class P2_25ftt1000 { //FORMAT: PracticalNum_studentid
     }
 
     public static void ComputeSummation(){
-        // 2.2 – ComputeSummation.java [USE THE CLASSNAME GIVEN IN THE TASK SHEET]
+        // 1.2 – ComputeSummation.java [USE THE CLASSNAME GIVEN IN THE TASK SHEET]
         //PURPOSE:
         // Enter two integer,  add them up and multiply by 100
         // display summation and final result
@@ -51,7 +51,7 @@ public class P2_25ftt1000 { //FORMAT: PracticalNum_studentid
     }
 
     public static void LoginValidator(){
-        //2.3 – LoginValidator.java
+        //1.3 – LoginValidator.java
         //PURPOSE:
         // Enter a password, upon matching display welcome otherwise wrong password
 
@@ -72,6 +72,7 @@ public class P2_25ftt1000 { //FORMAT: PracticalNum_studentid
         }
     }
 }
+
 
 
 
