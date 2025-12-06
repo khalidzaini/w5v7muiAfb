@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class PracticalNum_studentIid { //example P2_25ftt1000
+public class P2_25ftt1000 { //FORMAT: PracticalNum_studentid
     public static void main(String[] args) {
         
         //PrintNumbers();
@@ -72,6 +72,7 @@ public class PracticalNum_studentIid { //example P2_25ftt1000
         }
     }
 }
+
 
 
 
