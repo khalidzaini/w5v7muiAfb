@@ -4,22 +4,36 @@ import java.util.Scanner;
 public class PracticalNum_studentIid { //example P2_25ftt1000
     public static void main(String[] args) {
         
-        //Q1();
-        //Q2();
-        //Q3();
+        //PrintNumbers();
+        //ComputeSummation();
+        //LoginValidator();
     }
 
-    public static void Q1(){
-        // Q1: print numbers given a format
+    //TO GET FULL MARKS, YOU MUST:
+    //1. produce the expected output
+    //2. Write short purpose
+    //3. Describe how you code works.
+    //4. Screenshot of output with valid and invalid input
+
+    
+    public static void PrintNumbers(){
+        //2.1 – PrintNumbers.java [USE THE CLASSNAME GIVEN IN THE TASK SHEET]
+        // PURPOSE: print numbers given a format
+
+        // DESCRIPTION HOW IT WORKS
         // To print the number with fixed space, use the \t
         // \t means tab characters
         System.out.println("1\t2\t3\t4\t5");
         System.out.println("6\t7\t8\t9\t10");
     }
 
-    public static void Q2(){
-        // Q2: Enter two integer,  add them up and multiply by 100
+    public static void ComputeSummation(){
+        // 2.2 – ComputeSummation.java [USE THE CLASSNAME GIVEN IN THE TASK SHEET]
+        //PURPOSE:
+        // Enter two integer,  add them up and multiply by 100
         // display summation and final result
+
+        // DESCRIPTION HOW IT WORKS
         // create two variables to store the two numbers
         // create additional variable to store the summation
         // print summation
@@ -36,9 +50,12 @@ public class PracticalNum_studentIid { //example P2_25ftt1000
         input.close();
     }
 
-    public static void Q3(){
+    public static void LoginValidator(){
+        //2.3 – LoginValidator.java
+        //PURPOSE:
+        // Enter a password, upon matching display welcome otherwise wrong password
 
-        //Q3: Enter a password, upon matching display welcome otherwise wrong password
+       // DESCRIPTION HOW IT WORKS
         //initialize a variable to store password
         //create another variable to store user input
         //using the IF selection to detected is password is correct or otherwise
@@ -55,4 +72,5 @@ public class PracticalNum_studentIid { //example P2_25ftt1000
         }
     }
 }
+
 
