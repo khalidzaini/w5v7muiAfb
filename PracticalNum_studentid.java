@@ -13,7 +13,7 @@ public class PracticalNum_studentIid { //example P2_25ftt1000
     //1. produce the expected output
     //2. Write short purpose
     //3. Describe how you code works.
-    //4. Screenshot of output with valid and invalid input
+    //4. Screenshot of output with valid and invalid input (if applicable)
 
     
     public static void PrintNumbers(){
@@ -72,5 +72,6 @@ public class PracticalNum_studentIid { //example P2_25ftt1000
         }
     }
 }
+
 
 
