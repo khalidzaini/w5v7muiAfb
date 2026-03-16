@@ -25,6 +25,9 @@ public class P2_25ftt1000 { //FORMAT: PracticalNum_studentid
         // DESCRIPTION HOW IT WORKS
         // To print the number with fixed space, use the \t
         // \t means tab characters
+
+        //ADDED 16/3/26: DO NOT COMMENT YOUR SOLUTIONS!
+        
         System.out.println("1\t2\t3\t4\t5");
         System.out.println("6\t7\t8\t9\t10");
     }
@@ -42,6 +45,9 @@ public class P2_25ftt1000 { //FORMAT: PracticalNum_studentid
         // create additional variable to store the summation
         // print summation
         // print summation * result
+        
+        //ADDED 16/3/26: DO NOT COMMENT YOUR SOLUTIONS!
+        
         Scanner input = new Scanner(System.in);  
         System.out.print("Enter num1: ");
         int num1 =  input.nextInt();
@@ -66,6 +72,9 @@ public class P2_25ftt1000 { //FORMAT: PracticalNum_studentid
         //create another variable to store user input
         //using the IF selection to detected is password is correct or otherwise
         //print suitable message
+
+        //ADDED 16/3/26: DO NOT COMMENT YOUR SOLUTIONS!
+        
         Scanner input = new Scanner(System.in);  
         String password="ITP2026";
         System.out.print("Enter the password: ");
