@@ -4,9 +4,9 @@ import java.util.Scanner;
 public class P2_25ftt1000 { //FORMAT: PracticalNum_studentid
     public static void main(String[] args) {
         
-        //PrintNumbers();
-        //ComputeSummation();
-        //LoginValidator();
+        //printNumbers();
+        //computeSummation();
+        //loginValidator();
     }
 
     //TO GET FULL MARKS, YOU MUST:
@@ -16,8 +16,10 @@ public class P2_25ftt1000 { //FORMAT: PracticalNum_studentid
     //4. Screenshot of output with valid and invalid input (if applicable)
 
     
-    public static void PrintNumbers(){
-        //1.1 – PrintNumbers.java [USE THE CLASSNAME GIVEN IN THE TASK SHEET]
+    public static void printNumbers(){
+        //1.1 – PrintNumbers.java [USE THE CLASSNAME GIVEN IN THE TASK SHEET for method name]
+        //ADDED 16/3/26: Follow convention for method name! printNumbers not PrintNumbers
+        
         // PURPOSE: print numbers given a format
 
         // DESCRIPTION HOW IT WORKS
@@ -27,8 +29,10 @@ public class P2_25ftt1000 { //FORMAT: PracticalNum_studentid
         System.out.println("6\t7\t8\t9\t10");
     }
 
-    public static void ComputeSummation(){
-        // 1.2 – ComputeSummation.java [USE THE CLASSNAME GIVEN IN THE TASK SHEET]
+    public static void computeSummation(){
+        // 1.2 – ComputeSummation.java [USE THE CLASSNAME GIVEN IN THE TASK SHEET for method name].
+        //ADDED 16/3/26: Follow convention for method name! computeSummation not ComputeSummation
+        
         //PURPOSE:
         // Enter two integer,  add them up and multiply by 100
         // display summation and final result
@@ -50,8 +54,10 @@ public class P2_25ftt1000 { //FORMAT: PracticalNum_studentid
         input.close();
     }
 
-    public static void LoginValidator(){
-        //1.3 – LoginValidator.java
+    public static void loginValidator(){
+        //1.3 – LoginValidator.java  [USE THE CLASSNAME GIVEN IN THE TASK SHEET for method name].
+       //ADDED 16/3/26: Follow convention for method name! loginValidator not LoginValidator
+
         //PURPOSE:
         // Enter a password, upon matching display welcome otherwise wrong password
 
